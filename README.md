@@ -39,7 +39,7 @@
 
 ## 📬 Reach out
 
-- 📧 [arnaud_jacot@hotmail.com](mailto:arnaud,valentejacot-descombes@epfl.ch)
+- 📧 [arnaud,valentejacot-descombes@epfl.ch](mailto:arnaud,valentejacot-descombes@epfl.ch)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-v-026612100)
 - 🏫 [EPFL profile](https://people.epfl.ch/arnaud.valentejacot-descombes)
 
