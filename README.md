@@ -1,48 +1,57 @@
-# Hi, I'm Arnaud! 👋
+# Bonjour, moi c'est Arnaud ! 👋
 
-🇨🇭 I'm from Switzerland and currently completing my **Bachelor’s in Mechanical Engineering** at [EPFL](https://www.epfl.ch/en/).
+🇨🇭 Étudiant suisse en dernière année de **Bachelor en Génie Mécanique** à l’[EPFL](https://www.epfl.ch/fr/).
 
-🚀 My interests include physics, embedded systems, simulation, and creative prototyping.
+🚀 Je m’intéresse à la physique appliquée, aux systèmes embarqués, à la simulation numérique et au prototypage créatif.
 
-🔧 I enjoy building things — from Python GUIs and Arduino interfaces to finite element solvers and video tracking tools.
+🔧 J’aime concevoir et construire des systèmes — interfaces Arduino, scripts Python, solveurs par éléments finis ou outils de suivi vidéo.
 
-📸 Outside of work, I love photography, skiing, and tinkering with 3D printers!
-
----
-
-## 🔍 Profile Overview
-
-- 🧠 Currently working on a FEM-based thermal solver and image processing for experimental mechanics
-- 🛠️ Passionate about building systems from scratch (hardware + software)
-- 💬 Languages: French (native), English (C1), German (B1), Italian (A1)
+📸 En dehors de mes projets, je pratique la photographie, le ski, et j’expérimente avec l’impression 3D.
 
 ---
 
-## 🧰 Skills
+## 🔗 Liens rapides
 
-- 💻 Programming: `Python`, `C`, `MATLAB`, `Arduino`, `LaTeX`, Git  
-- 🧪 Simulation & Tools: `COMSOL`, custom FEM codes, OpenCV, `Onshape`, `Fusion 360`  
-- 🔬 Physics & Engineering: Mechanics, Thermodynamics, Control, Signal Processing  
-- 🛠️ Hardware: Laser-cutting, FDM 3D printing, circuit prototyping
-
----
-
-## 📁 Portfolio & Projects
-
-📂 Explore my featured projects in this [**GitHub portfolio**](https://github.com/arnvalen/portfolio):
-- 🤖 Biomimetic gripper based on an iris diaphragm mechanism
-- 🔬 Laser deflection tracker with Arduino + Python GUI
-- 🌡️ FEM thermal solver with adaptive meshing in MATLAB
-- 🍷 Wine menu generator with dynamic LaTeX/Python pipeline
+- 📄 [Mon CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_Arnaud_Valente.pdf)
+- 📁 [Portfolio complet (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
+- 💼 [Portfolio GitHub – projets en détail](https://github.com/Arnvalen/Portfolio)
 
 ---
 
-## 📬 Reach out
+## 🔍 Profil en bref
 
-- 📧 [arnaud,valentejacot-descombes@epfl.ch](mailto:arnaud,valentejacot-descombes@epfl.ch)
+- 🧠 Développement d’un solveur thermique FEM et outils d’analyse vidéo pour la mécanique expérimentale
+- 🛠️ Passionné par la conception de systèmes complets, du hardware au software
+- 💬 Langues : Français (natif), Anglais (C1), Allemand (B1), Italien (A1)
+
+---
+
+## 🧰 Compétences
+
+- 💻 Programmation : `Python`, `C`, `MATLAB`, `Arduino`, `LaTeX`, Git  
+- 🧪 Simulation et outils : `COMSOL`, solveurs FEM personnalisés, `OpenCV`, `Onshape`, `Fusion 360`  
+- 🔬 Sciences appliquées : mécanique, thermodynamique, commande, traitement du signal  
+- 🛠️ Fabrication : découpe laser, impression 3D FDM, prototypage électronique
+
+---
+
+## 📁 Projets en vedette
+
+📂 Détail des projets dans le [**portfolio GitHub**](https://github.com/Arnvalen/Portfolio) :
+
+- 🤖 Gripper biomimétique inspiré d’un diaphragme d’iris
+- 🔬 Système de suivi laser avec Arduino + interface Python
+- 🌡️ Solveur thermique FEM adaptatif en MATLAB
+- 🍷 Générateur automatique de carte des vins avec LaTeX et Python
+
+---
+
+## 📬 Me contacter
+
+- 📧 [arnaud.valentejacot-descombes@epfl.ch](mailto:arnaud.valentejacot-descombes@epfl.ch)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-v-026612100)
-- 🏫 [EPFL profile](https://people.epfl.ch/arnaud.valentejacot-descombes)
+- 🏫 [Page EPFL](https://people.epfl.ch/arnaud.valentejacot-descombes)
 
 ---
 
-_Thanks for visiting! Feel free to explore my repos or connect with me!_
+_Merci de votre visite ! N'hésitez pas à explorer mes dépôts ou à me contacter._
