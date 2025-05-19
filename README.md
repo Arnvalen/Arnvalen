@@ -29,7 +29,7 @@
 
 ## 📁 Portfolio & Projects
 
-📂 Explore my featured projects in this [**GitHub portfolio**](https://github.com/arnaud-jacot/portfolio):
+📂 Explore my featured projects in this [**GitHub portfolio**](https://github.com/arnvalen/portfolio):
 - 🤖 Biomimetic gripper based on an iris diaphragm mechanism
 - 🔬 Laser deflection tracker with Arduino + Python GUI
 - 🌡️ FEM thermal solver with adaptive meshing in MATLAB
@@ -39,9 +39,9 @@
 
 ## 📬 Reach out
 
-- 📧 [arnaud_jacot@hotmail.com](mailto:arnaud_jacot@hotmail.com)
+- 📧 [arnaud_jacot@hotmail.com](mailto:arnaud,valentejacot-descombes@epfl.ch)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-v-026612100)
-- 🏫 [EPFL profile](https://www.epfl.ch/en)
+- 🏫 [EPFL profile](https://people.epfl.ch/arnaud.valentejacot-descombes)
 
 ---
 
