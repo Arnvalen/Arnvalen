@@ -12,7 +12,7 @@
 
 ## 🔗 Liens rapides
 
-- 📄 [Mon CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_Arnaud_Valente.pdf)
+- 📄 [Mon CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_ArnaudVJ-D.pdf)
 - 📁 [Portfolio complet (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
 - 💼 [Portfolio GitHub – projets en détail](https://github.com/Arnvalen/Portfolio)
 
